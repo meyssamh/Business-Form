@@ -1,0 +1,19 @@
+.input-field {
+	width: 90%;
+}
+.country-field {
+	width: 90%;
+}
+.main {
+	position: absolute;
+	width: 100%;
+	background-color: rgb(187, 191, 255);
+}
+html {
+	font-family: Roboto, sans-serif;
+}
+
+body {
+	margin: 0;
+	box-sizing: border-box;
+}
